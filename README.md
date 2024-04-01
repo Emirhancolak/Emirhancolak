@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=F75338AC&lines=Hello+World%F0%9F%91%8B++I'm+Emirhan)](https://git.io/typing-svg)
+
+#  Tech Stack 💻
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+
+#  Stats 📊
+![EmirhanColak's Stats](https://github-readme-stats.vercel.app/api?username=EmirhanColak&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 <!--
 **Emirhancolak/Emirhancolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
